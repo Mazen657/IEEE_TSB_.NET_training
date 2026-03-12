@@ -1,0 +1,14 @@
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\obj\Debug\net9.0\Random Values Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\obj\Debug\net9.0\Random Values Generator.AssemblyInfoInputs.cache
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\obj\Debug\net9.0\Random Values Generator.AssemblyInfo.cs
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\obj\Debug\net9.0\Random Values Generator.csproj.CoreCompileInputs.cache
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\bin\Debug\net9.0\Random Values Generator.exe
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\bin\Debug\net9.0\Random Values Generator.deps.json
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\bin\Debug\net9.0\Random Values Generator.runtimeconfig.json
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\bin\Debug\net9.0\Random Values Generator.dll
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\bin\Debug\net9.0\Random Values Generator.pdb
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\obj\Debug\net9.0\Random Values Generator.dll
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\obj\Debug\net9.0\refint\Random Values Generator.dll
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\obj\Debug\net9.0\Random Values Generator.pdb
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\obj\Debug\net9.0\Random Values Generator.genruntimeconfig.cache
+D:\hard\Work\.NET_Project\Random Values Generator\Random Values Generator\obj\Debug\net9.0\ref\Random Values Generator.dll
