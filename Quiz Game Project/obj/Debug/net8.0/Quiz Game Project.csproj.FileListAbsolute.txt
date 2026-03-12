@@ -1,0 +1,14 @@
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\bin\Debug\net8.0\Quiz Game Project.exe
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\bin\Debug\net8.0\Quiz Game Project.deps.json
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\bin\Debug\net8.0\Quiz Game Project.runtimeconfig.json
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\bin\Debug\net8.0\Quiz Game Project.dll
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\bin\Debug\net8.0\Quiz Game Project.pdb
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\obj\Debug\net8.0\Quiz Game Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\obj\Debug\net8.0\Quiz Game Project.AssemblyInfoInputs.cache
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\obj\Debug\net8.0\Quiz Game Project.AssemblyInfo.cs
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\obj\Debug\net8.0\Quiz Game Project.csproj.CoreCompileInputs.cache
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\obj\Debug\net8.0\Quiz Game Project.dll
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\obj\Debug\net8.0\refint\Quiz Game Project.dll
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\obj\Debug\net8.0\Quiz Game Project.pdb
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\obj\Debug\net8.0\Quiz Game Project.genruntimeconfig.cache
+D:\hard\Work\.NET_Project\Quiz Game Project\Quiz Game Project\obj\Debug\net8.0\ref\Quiz Game Project.dll
