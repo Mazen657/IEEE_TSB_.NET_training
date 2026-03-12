@@ -1,0 +1,14 @@
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\bin\Debug\net8.0\Inventory Management System Project.exe
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\bin\Debug\net8.0\Inventory Management System Project.deps.json
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\bin\Debug\net8.0\Inventory Management System Project.runtimeconfig.json
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\bin\Debug\net8.0\Inventory Management System Project.dll
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\bin\Debug\net8.0\Inventory Management System Project.pdb
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.AssemblyInfoInputs.cache
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.AssemblyInfo.cs
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.csproj.CoreCompileInputs.cache
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.dll
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\refint\Inventory Management System Project.dll
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.pdb
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.genruntimeconfig.cache
+D:\hard\Work\.NET_Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\ref\Inventory Management System Project.dll
